@@ -3,7 +3,7 @@
 
 # Descripción
 
-En este proyecto, se ejecutan pruebas de regresión para identificar y reportar errores en la aplicación de transporte llamada Urban Routes.
+En este proyecto, se ejecutan pruebas de regresión mediante listas de comprobación para identificar y reportar errores en la aplicación de transporte llamada Urban Routes.
 
 Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte.
 
